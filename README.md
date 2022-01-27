@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxleted&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&exclude_repo=lolstats-graduation-project,infkit_client)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxleted&layout=compact&theme=tokyonight&exclude_repo=lolstats-graduation-project,infkit_client)](https://github.com/anuraghazra/github-readme-stats)
