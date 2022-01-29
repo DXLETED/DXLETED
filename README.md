@@ -3,3 +3,4 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxleted&layout=compact&theme=tokyonight&exclude_repo=lolstats-graduation-project,infkit_client)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dxleted&repo=infkit_client&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
